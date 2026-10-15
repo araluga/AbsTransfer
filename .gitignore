@@ -1,0 +1,7 @@
+# локальные настройки (путь к хранилищу и код доступа) и журнал
+pc/config.json
+pc/abs_server.log
+pc/abs_server.log.old
+__pycache__/
+*.pyc
+*.zip

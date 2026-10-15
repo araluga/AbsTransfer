@@ -1,0 +1,9 @@
+{
+  "id": "abs-transfer",
+  "name": "AbsTransfer — синхронизация с ПК",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Двусторонняя синхронизация этого хранилища с хранилищем на ПК по Wi-Fi.",
+  "author": "AbsTransfer",
+  "isDesktopOnly": false
+}
